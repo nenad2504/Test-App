@@ -1,9 +1,7 @@
 <?php
 
 require_once 'vendor/autoload.php';
-require_once 'app/libraries/Database.php';
 
+include "app/view/product.php"
 
-// use app\Controller\Person;
-
-$db = new Database();
+?>

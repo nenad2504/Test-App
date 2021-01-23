@@ -1,0 +1,16 @@
+{
+    "name": "nenad/test",
+    "description": "Some description will be useful too!",
+    "authors": [
+        {
+            "name": "Nenad Jovanovic",
+            "email": "nenadj254@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}
